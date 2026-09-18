@@ -1,5 +1,8 @@
 # 🩺 Breast Cancer Detection Using ResNet-50 V2
 
+<img width="1917" height="1005" alt="Screenshot 2026-09-18 143520" src="https://github.com/user-attachments/assets/cffa41f4-651d-407b-b466-0e386eeeeb68" />
+
+
 A deep learning project that classifies breast scan images as **Benign** or **Malignant** using a ResNet-50 V2 backbone (transfer learning), with a Streamlit app for interactive testing and Grad-CAM visual explanations.
 
 > ⚠️ **Disclaimer:** This project is for research/portfolio purposes only. It is **not** a diagnostic tool and should never be used for real medical decisions. Always consult a qualified radiologist.
