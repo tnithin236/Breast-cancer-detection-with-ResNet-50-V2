@@ -1,0 +1,47 @@
+# Model files (large binaries — track with Git LFS or exclude entirely)
+*.h5
+*.keras
+*.hdf5
+*.pb
+*.tflite
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Datasets / large data
+data/
+datasets/
+*.csv
+*.npz
+*.npy
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+output/
